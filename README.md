@@ -5,7 +5,8 @@ Can be viewed at [3.c0rk.ninja](http://3.c0rk.ninja)
 
 Needs an html file like this:
 
-`<!doctype html>
+```
+<!doctype html>
 <html lang="en">
 
   <head>
@@ -19,4 +20,5 @@ Needs an html file like this:
     <script src="script.js"></script>
   </body>
 
-</html>`
+</html>
+```
